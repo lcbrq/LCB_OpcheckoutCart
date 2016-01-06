@@ -1,0 +1,3 @@
+app/code/local/LCB/OpcheckoutCart                         app/code/local/LCB/OpcheckoutCart
+app/etc/modules/LCB_OpcheckoutCart.xml                    app/etc/modules/LCB_OpcheckoutCart.xml
+app/design/frontend/base/default/template/opcheckoutcart/ app/design/frontend/base/default/template/opcheckoutcart/

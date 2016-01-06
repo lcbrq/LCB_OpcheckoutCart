@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <LCB_OpcheckoutCart>
+            <version>0.1.0</version>
+        </LCB_OpcheckoutCart>
+    </modules>
+    <global>
+        <helpers>
+            <opcheckoutcart>
+                <class>LCB_OpcheckoutCart_Helper</class>
+            </opcheckoutcart>
+        </helpers>
+        <blocks>
+            <opcheckoutcart>
+                <class>LCB_OpcheckoutCart_Block</class>
+            </opcheckoutcart>
+        </blocks>
+    </global>
+</config> 
